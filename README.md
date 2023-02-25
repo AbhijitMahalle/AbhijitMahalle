@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Robotics Software Development, Computer Vision, Deep Learning, Path planning**
 
-- 📫 How to reach me? **abhimah@umd.edu**
+- 📫 How to reach me? **abhimah@terpmail.umd.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
