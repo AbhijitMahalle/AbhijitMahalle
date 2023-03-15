@@ -2,12 +2,8 @@
 <h3 align="center">Robotics Engineer</h3>
 
 - 🔭 I'm currently looking for entry-level opportunity as a **Robotics Engineer**
-
-- 🌱 I’m currently learning **Computer Vision, Deep Learning, Machine Learning, State Estimation and Control, and Sensor Fusion**
-
-- 💬 Ask me about **Robotics Software Development, Computer Vision, Deep Learning, Path planning**
-
-- 📫 How to reach me? **abhimah(at)terpmail(dot)umd(dot)edu**
+- 
+- 📫 How to reach me? **abhimah<at>terpmail<dot>umd<dotedu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
