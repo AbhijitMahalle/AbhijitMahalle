@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I am Abhijit Mahalle</h1>
+<h1 align="center">Abhijit Mahalle</h1>
 <h3 align="center">Robotics Engineer</h3>
 
 - 🔭 I'm currently looking for entry-level opportunity as a **Robotics Engineer**
