@@ -2,8 +2,8 @@
 <h3 align="center">Robotics Engineer</h3>
 
 - 🔭 I'm currently looking for entry-level opportunity as a **Robotics Engineer**
-- 
-- 📫 How to reach me? **abhimah<at>terpmail<dot>umd<dotedu**
+
+- 📫 How to reach me? **abhimah<at>terpmail<dot>umd<dot>edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
