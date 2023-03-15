@@ -49,7 +49,7 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitMahalle&theme=dark" alt="AbhijitMahalle" /></p> -->
 
 <h2 align="center">
-ML/Vision Projects
+ML / Vision Projects
 </h2>
 
 <p align="center">
