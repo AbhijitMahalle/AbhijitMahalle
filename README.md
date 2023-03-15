@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently looking for entry-level opportunity as a **Robotics Engineer**
 
-- 📫 How to reach me? **abhimah<at>terpmail<dot>umd<dot>edu**
+- 📫 How to reach me? **abhimah(at)terpmail(dot)umd(dot)edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
