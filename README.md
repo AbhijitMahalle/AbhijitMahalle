@@ -1,9 +1,9 @@
 <h1 align="center">Abhijit Mahalle</h1>
 <h3 align="center">Robotics Engineer</h3>
 
-- 🔭 I'm currently looking for entry-level opportunity as a **Robotics Engineer**
+- I am currently looking for full-time opportunity as a **Robotics Software Engineer** and interested in the domain of Computer Vision, Machine Learning, and Robotics Software Development.
 
-- 📫 How to reach me? **abhimah(at)terpmail(dot)umd(dot)edu**
+- How to reach me? **abhimah(at)terpmail(dot)umd(dot)edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,4 +47,38 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhijitMahalle&show_icons=true&locale=en&theme=dark" alt="AbhijitMahalle" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitMahalle&theme=dark" alt="AbhijitMahalle" /></p> -->
+
+<h2 align="center">
+ML/Vision Projects
+</h2>
+
+<p align="center">
+  <a href="https://github.com/abhijitmahalle/3d-scene-reconstruction"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=3d-scene-reconstruction&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="3d-scene-reconstruction"></a>
+  <a href="https://github.com/abhijitmahalle/sfm-learner"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=sfm-learner&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="sfm-learner"></a>
+  <a href="https://github.com/abhijitmahalle/structure-from-motion"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=structure-from-motion&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="structure-from-motion"></a>
+  <a href="https://github.com/abhijitmahalle/visual-odometry"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=visual-odometry&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="visual-odometry"></a>
+  <a href="https://github.com/abhijitmahalle/visual-sensor-fusion"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=visual-sensor-fusion&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="visual-sensor-fusion"></a>
+  <a href="https://github.com/abhijitmahalle/stereo-vision"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=stereo-vision&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="stereo-vision"></a>
+  <a href="https://github.com/abhijitmahalle/AR-tag-detection"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=AR-tag-detection&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="AR-tag-detection"></a> 
+  <a href="https://github.com/abhijitmahalle/lane-detection"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=lane-detection&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="lane-detection"></a> 
+  <a href="https://github.com/abhijitmahalle/zhang-camera-calibration"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=zhang-camera-calibration&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="zhang-camera-calibration"></a> 
+  <a href="https://github.com/abhijitmahalle/panorama-stitching"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=panorama-stitching&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="panorama-stitching"></a>
+  <a href="https://github.com/abhijitmahalle/face-swap"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=face-swap&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="face-swap"></a>
+  <a href="https://github.com/abhijitmahalle/Monocular-Human-Position-Estimator"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=Monocular-Human-Position-Estimator&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Monocular-Human-Position-Estimator"></a>
+</p>
+<!-- 
+<h2 align="center">
+Other Projects
+</h2>
+<p align="center">
+    <a href="https://github.com/h-gokul/LQR-control-pendulum"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=LQR-control-pendulum&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="LQR-control-pendulum"></a>
+    <a href="https://github.com/h-gokul/ros-robots"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=ros-robots&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="SnakeBot"></a>
+    <a href="https://github.com/h-gokul/EMIRNN"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=EMIRNN&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="EMIRNN"></a>
+    <a href="https://github.com/h-gokul/HHAR-Using_HARnet"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=HHAR-Using_HARnet&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="HHAR-Using_HARnet"></a>    
+</p> -->
+
+<!-- All repos link -->
+<p align="center">
+    <a href="https://github.com/abhijitmahalle?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
