@@ -1,9 +1,9 @@
 <h1 align="center">Abhijit Mahalle</h1>
-<h3 align="center">Robotics Engineer</h3>
+<h3 align="center">Robotics Software Engineer</h3>
 
-- I am currently looking for full-time opportunity as a **Robotics Software Engineer** and interested in the domain of Computer Vision, Machine Learning, and Robotics Software Development.
+- I'm a self-driven individual with a particular interest in computer vision, machine learning, image processing, and robotics software development. 
 
-- How to reach me? **abhimah(at)terpmail(dot)umd(dot)edu**
+- How to reach me? **amahalle(at)terpmail(dot)umd(dot)edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
