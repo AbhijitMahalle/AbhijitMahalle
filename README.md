@@ -1,9 +1,9 @@
 <h1 align="center">Abhijit Mahalle</h1>
-<h3 align="center">Robotics Software Engineer</h3>
+<h3 align="center">Robotics Engineer</h3>
 
-- I'm a self-driven individual with a particular interest in computer vision, machine learning, image processing, and robotics software development. 
+- I'm a self-driven individual with a particular interest in Computer Vision, Robotics Software Development, and Machine Learning. 
 
-- How to reach me? **amahalle(at)terpmail(dot)umd(dot)edu**
+- How to reach me? **amahalle(at)umd(dot)edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,30 +52,27 @@
 Computer Vision / ML Projects
 </h2>
 
-<!-- <p align="center">
-  <a href="https://github.com/abhijitmahalle/3d-scene-reconstruction"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=3d-scene-reconstruction&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="3d-scene-reconstruction"></a>
-  <a href="https://github.com/abhijitmahalle/sfm-learner"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=sfm-learner&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="sfm-learner"></a> -->
+<p align="center">
+<!--   <a href="https://github.com/abhijitmahalle/3d-scene-reconstruction"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=3d-scene-reconstruction&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="3d-scene-reconstruction"></a> -->
+<!--   <a href="https://github.com/abhijitmahalle/sfm-learner"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=sfm-learner&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="sfm-learner"></a> -->
   <a href="https://github.com/abhijitmahalle/structure-from-motion"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=structure-from-motion&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="structure-from-motion"></a>
+  <a href="https://github.com/abhijitmahalle/panorama-stitching"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=panorama-stitching&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="panorama-stitching"></a>
   <a href="https://github.com/abhijitmahalle/april-tag-dectection-and-tracking"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=AR-tag-detection&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="AR-tag-detection"></a> 
   <a href="https://github.com/abhijitmahalle/lane-detection"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=lane-detection&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="lane-detection"></a> 
-  <a href="https://github.com/abhijitmahalle/zhang-camera-calibration"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=zhang-camera-calibration&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="zhang-camera-calibration"></a> 
-  <a href="https://github.com/abhijitmahalle/panorama-stitching"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=panorama-stitching&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="panorama-stitching"></a>
-  <a href="https://github.com/abhijitmahalle/face-swap"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=face-swap&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="face-swap"></a>
-  <a href="https://github.com/abhijitmahalle/Monocular-Human-Position-Estimator"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=Monocular-Human-Position-Estimator&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Monocular-Human-Position-Estimator"></a>
+<!--   <a href="https://github.com/abhijitmahalle/zhang-camera-calibration"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=zhang-camera-calibration&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="zhang-camera-calibration"></a>  -->
+<!--   <a href="https://github.com/abhijitmahalle/face-swap"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=face-swap&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="face-swap"></a> -->
   <a href="https://github.com/abhijitmahalle/hand-written-digit-recognition"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=hand-written-digit-recognition&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="hand-written-digit-recognition"></a>
   <a href="https://github.com/abhijitmahalle/steering-control-using-cnn"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=steering-control-using-cnn&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="steering-control-using-cnn"></a>
   <a href="https://github.com/abhijitmahalle/face-recognition"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=face-recognition&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="face-recognition"></a>
 </p>
-<!-- 
+
 <h2 align="center">
-Other Projects
+Robotics Software Projects
 </h2>
 <p align="center">
-    <a href="https://github.com/h-gokul/LQR-control-pendulum"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=LQR-control-pendulum&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="LQR-control-pendulum"></a>
-    <a href="https://github.com/h-gokul/ros-robots"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=ros-robots&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="SnakeBot"></a>
-    <a href="https://github.com/h-gokul/EMIRNN"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=EMIRNN&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="EMIRNN"></a>
-    <a href="https://github.com/h-gokul/HHAR-Using_HARnet"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=h-gokul&repo=HHAR-Using_HARnet&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="HHAR-Using_HARnet"></a>    
-</p> -->
+  <a href="https://github.com/abhijitmahalle/decluttering_domestic_robot"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=decluttering_domestic_robot&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Monocular-Human-Position-Estimator"></a>
+  <a href="https://github.com/abhijitmahalle/Monocular-Human-Position-Estimator"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijitmahalle&repo=Monocular-Human-Position-Estimator&theme=react&bg_color=151515&title_color=0484FF&icon_color=E38C2D&text_color=FFFFFF&hide_border=true&show_icons=false" alt="Monocular-Human-Position-Estimator"></a> 
+</p>
 
 <!-- All repos link -->
 <p align="center">
