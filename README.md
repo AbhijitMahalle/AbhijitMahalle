@@ -3,7 +3,7 @@
 
 - I'm a self-driven individual with a particular interest in Computer Vision, Robotics Software Development, and Machine Learning. 
 
-- How to reach me? **amahalle(at)umd(dot)edu**
+- How to reach me? **amahalle(at)gmail(dot)com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,7 +44,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhijitMahalle&show_icons=true&locale=en&theme=dark&layout=compact" alt="AbhijitMahalle" /></p> -->
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhijitMahalle&show_icons=true&locale=en&theme=dark" alt="AbhijitMahalle" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhijitMahalle&show_icons=true&locale=en&theme=dark" alt="AbhijitMahalle" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitMahalle&theme=dark" alt="AbhijitMahalle" /></p> -->
 
